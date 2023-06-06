@@ -13,7 +13,8 @@ Com HTML foi criada uma lading page simples de cadastro de e-mails, composta por
 Toda essa estilização foi desenvolvida com o Framework Tailwind, qu utiliza classes utilitarias que representam as propriedades do CSS. 
 
 ## Documentação do Tailwind CSS
-tailwindcss.com
+[Tailwind](https://www.tailwindcss.com)
+
   
 ## Veja o Projeto:
 
